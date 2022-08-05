@@ -1,8 +1,13 @@
 # Geeks Profile Task
 Web application that allows users to create their own profile, 
+
 using FLASK and MySQL database.
+
+
 Dockerize the app automatically using Jenkins pipeline  
+
 push the docker image to DockerHub.
+
 Run the app with Kubernetes over Minikube.
 
 
