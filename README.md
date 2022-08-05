@@ -17,7 +17,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Geeks-Profile
+  cd geeks-profile
 ```
 
 Build the project
